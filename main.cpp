@@ -117,7 +117,7 @@ int main() {
     setlocale(LC_ALL, "RUS");
     int a = 9;
     int b = 12;
-    Fibonachi(9, 12, 5);
+    Fibonachi(a, b, 5);
 
     return 0;
 }
